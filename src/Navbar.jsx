@@ -54,42 +54,42 @@ export default function Navbar() {
         <div className="container mx-auto px-4">
           <div className="hidden md:flex items-center gap-6 py-3 text-sm">
             <a
-              href="/stays"
+              href="/"
               className="flex items-center gap-2 hover:text-blue-200 transition-colors"
             >
               <Bed className="w-4 h-4" />
               Unterkünfte
             </a>
             <a
-              href="/flights"
+              href="/"
               className="flex items-center gap-2 hover:text-blue-200 transition-colors"
             >
               <Plane className="w-4 h-4" />
               Flüge
             </a>
             <a
-              href="/car-rentals"
+              href="/"
               className="flex items-center gap-2 hover:text-blue-200 transition-colors"
             >
               <Car className="w-4 h-4" />
               Mietwagen
             </a>
             <a
-              href="/cruises"
+              href="/"
               className="flex items-center gap-2 hover:text-blue-200 transition-colors"
             >
               <Ship className="w-4 h-4" />
               Kreuzfahrten
             </a>
             <a
-              href="/attractions"
+              href="/"
               className="flex items-center gap-2 hover:text-blue-200 transition-colors"
             >
               <Landmark className="w-4 h-4" />
               Sehenswürdigkeiten
             </a>
             <a
-              href="/airport-taxis"
+              href="/"
               className="flex items-center gap-2 hover:text-blue-200 transition-colors"
             >
               <Taxi className="w-4 h-4" />
@@ -112,42 +112,42 @@ export default function Navbar() {
             </a>
             <div className="flex flex-col gap-2">
               <a
-                href="/stays"
+                href="/"
                 className="flex items-center gap-2 py-2 hover:text-blue-200 transition-colors"
               >
                 <Bed className="w-4 h-4" />
                 Unterkünfte
               </a>
               <a
-                href="/flights"
+                href="/"
                 className="flex items-center gap-2 py-2 hover:text-blue-200 transition-colors"
               >
                 <Plane className="w-4 h-4" />
                 Flüge
               </a>
               <a
-                href="/car-rentals"
+                href="/"
                 className="flex items-center gap-2 py-2 hover:text-blue-200 transition-colors"
               >
                 <Car className="w-4 h-4" />
                 Mietwagen
               </a>
               <a
-                href="/cruises"
+                href="/"
                 className="flex items-center gap-2 py-2 hover:text-blue-200 transition-colors"
               >
                 <Ship className="w-4 h-4" />
                 Kreuzfahrten
               </a>
               <a
-                href="/attractions"
+                href="/"
                 className="flex items-center gap-2 py-2 hover:text-blue-200 transition-colors"
               >
                 <Landmark className="w-4 h-4" />
                 Sehenswürdigkeiten
               </a>
               <a
-                href="/airport-taxis"
+                href="/"
                 className="flex items-center gap-2 py-2 hover:text-blue-200 transition-colors"
               >
                 <Taxi className="w-4 h-4" />

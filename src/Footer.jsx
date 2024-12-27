@@ -24,13 +24,13 @@ export default function Footer() {
             <a href="/" className="text-sm hover:underline">
               Startseite
             </a>
-            <a href="/dienstleistungen" className="text-sm hover:underline">
+            <a href="/" className="text-sm hover:underline">
               Dienstleistungen
             </a>
-            <a href="/ueber-uns" className="text-sm hover:underline">
+            <a href="/" className="text-sm hover:underline">
               Über uns
             </a>
-            <a href="/reisefuehrer" className="text-sm hover:underline">
+            <a href="/" className="text-sm hover:underline">
               Reiseführer
             </a>
           </nav>
@@ -71,13 +71,13 @@ export default function Footer() {
             <p>Amtsgericht Berlin-Charlottenburg</p>
           </div>
           <div className="flex flex-wrap gap-4 md:justify-end">
-            <a href="/impressum" className="hover:underline">
+            <a href="/" className="hover:underline">
               Impressum
             </a>
-            <a href="/datenschutz" className="hover:underline">
+            <a href="/" className="hover:underline">
               Datenschutz
             </a>
-            <a href="/agb" className="hover:underline">
+            <a href="/" className="hover:underline">
               AGB
             </a>
           </div>
