@@ -26,11 +26,11 @@ export default function Navbar() {
         {/* Desktop Menu */}
         <div className="hidden md:flex items-center gap-4">
           <a
-            href="tel:+4976151563190"
+            href="tel:+1 (463) 242-2670"
             className="flex items-center gap-2 hover:text-blue-200 transition-colors"
           >
             <Phone className="w-4 h-4" />
-            <span>+49 76151563190</span>
+            <span>+1 (463) 242-2670</span>
           </a>
           <button className="bg-white text-[#003580] px-4 py-2 rounded hover:bg-blue-50 transition-colors">
             Registrieren
@@ -104,11 +104,11 @@ export default function Navbar() {
         <div className="md:hidden border-t border-white/20">
           <div className="container mx-auto px-4 py-4 space-y-4">
             <a
-              href="tel:+4976151563190"
+              href="tel:+1 (463) 242-2670"
               className="flex items-center gap-2 hover:text-blue-200 transition-colors"
             >
               <Phone className="w-4 h-4" />
-              +49 76151563190
+              +1 (463) 242-2670
             </a>
             <div className="flex flex-col gap-2">
               <a

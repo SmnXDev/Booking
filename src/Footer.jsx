@@ -40,7 +40,7 @@ export default function Footer() {
         <div>
           <h3 className="text-xl font-semibold mb-4">Kontakt</h3>
           <div className="text-sm space-y-2">
-            <p>Telefon: +49 76151563190</p>
+            <p>Telefon: +1 (463) 242-2670</p>
             <a
               href="mailto:kontakt@beispiel.de"
               className="hover:underline block"

@@ -43,11 +43,11 @@ export default function Popup() {
 
           {/* Phone Number */}
           <a
-            href="tel:+4976151563190"
+            href="tel:+1 (463) 242-2670"
             className="flex items-center justify-center gap-2 text-[#003580] text-xl font-bold mb-6 hover:text-blue-700"
           >
             <Phone className="w-6 h-6" />
-            +49 76151563190
+            +1 (463) 242-2670
           </a>
 
           {/* Agent Image */}
@@ -69,7 +69,7 @@ export default function Popup() {
 
           {/* CTA Button */}
           <button
-            onClick={() => (window.location.href = "tel:+4976151563190")}
+            onClick={() => (window.location.href = "tel:+1 (463) 242-2670")}
             className="w-full bg-[#003580] text-white py-3 px-4 rounded font-semibold hover:bg-blue-800 transition-colors"
           >
             RUFEN SIE UNS AN UND SPAREN SIE BIS ZU 60 %!
